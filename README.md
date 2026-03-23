@@ -38,7 +38,7 @@ systematic-macro-research/
 └── README.md
 
 
-### Bloc 5 — Current status
+### Research progress
 ```markdown
 ## Current status
 - [x] Initial project structure created
