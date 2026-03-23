@@ -1,2 +1,1 @@
-# systematic-macro-research
-Systematic macro research pipeline using Bayesian stress testing, state-space modeling, and macro strategy backtesting.
+Research pipeline for systematic macro investing across Canada and the US, integrating data engineering, macro feature construction, Kalman filtering, Bayesian stress testing, and strategy backtesting.
